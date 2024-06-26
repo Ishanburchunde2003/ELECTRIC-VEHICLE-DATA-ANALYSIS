@@ -4,7 +4,9 @@ The project aims to analyze the electric vehicle (EV) market, focusing on Batter
 1.Assess the market's size and growth.
 <br>
 2.Gauge technological advancements and efficiency of EVs.
+<br>
 3.Understand the dominance of fully electric models versus plug-in hybrids.
+<br>
 4.Identify geographical and brand-specific trends in EV adoption.
 
 The analysis will provide insights into consumer preferences, the impact of incentives, and regional adoption rates, aiding in strategic decision-making for stakeholders in the EV market.
