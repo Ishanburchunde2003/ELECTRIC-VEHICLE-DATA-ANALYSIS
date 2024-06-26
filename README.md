@@ -2,6 +2,7 @@
 The project aims to analyze the electric vehicle (EV) market, focusing on Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs). By examining the total number of EVs, average electric range, and distribution by model year, state, make, and model, the project seeks to:
 
 1.Assess the market's size and growth.
+<br>
 2.Gauge technological advancements and efficiency of EVs.
 3.Understand the dominance of fully electric models versus plug-in hybrids.
 4.Identify geographical and brand-specific trends in EV adoption.
